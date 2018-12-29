@@ -1,0 +1,16 @@
+
+/* WRAPPER */
+#wrapper { width:800px; margin:0 auto; }
+#info { margin-top:0px; }
+#info p { color:#eee; font-family:Georgia,serif; margin-top:10px; }
+#info p a { color:#eee; }
+#toggle { text-decoration:underline; }
+
+/* POLAROID */
+#polaroidcontainer { width:800px; height:350px; }
+
+.polaroid { width:147px; height:150px; background-image:url(../images/polaroid-bg.png); position:absolute; }
+.polaroid img { width:134px; height:110px; margin:11px 0 0 7px; }
+.polaroid p { text-align:center; font-family:Georgia,serif; font-size:9px; color:#2E2E2E; margin-top:6px; }
+
+.redborder { border:1px solid red; margin:-1px; }

@@ -1,0 +1,15 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-03-29 01:11:53 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-03-29 02:47:56 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-03-29 04:39:51 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: robots.txt ~ SYSPATH/classes/kohana/request.php [ 1126 ]
+2013-03-29 04:39:51 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-03-29 04:59:52 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-03-29 05:16:59 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-03-29 05:20:07 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-03-29 09:01:03 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-03-29 12:48:33 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-03-29 12:48:43 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-03-29 12:48:53 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-03-29 13:44:04 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-03-29 21:30:04 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: robots.txt ~ SYSPATH/classes/kohana/request.php [ 1126 ]

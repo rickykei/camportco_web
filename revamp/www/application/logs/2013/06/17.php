@@ -1,0 +1,16 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-06-17 00:42:24 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-06-17 02:23:57 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-06-17 02:39:35 --- ERROR: HTTP_Exception_404 [ 404 ]: The requested URL cart/direct_buy was not found on this server. ~ SYSPATH/classes/kohana/request/client/internal.php [ 113 ]
+2013-06-17 03:10:54 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-06-17 09:45:10 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: robots.txt ~ SYSPATH/classes/kohana/request.php [ 1126 ]
+2013-06-17 09:45:57 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-06-17 09:47:02 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-06-17 10:47:27 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-06-17 19:19:39 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: robots.txt ~ SYSPATH/classes/kohana/request.php [ 1126 ]
+2013-06-17 19:20:41 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-06-17 19:21:50 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-06-17 20:22:01 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-06-17 20:35:05 --- ERROR: ErrorException [ 8 ]: Undefined index:   ~ APPPATH/classes/controller/subcategory.php [ 205 ]
+2013-06-17 23:43:48 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: robots.txt ~ SYSPATH/classes/kohana/request.php [ 1126 ]

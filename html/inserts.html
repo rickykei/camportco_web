@@ -1,0 +1,45 @@
+	<link type="text/css" href="themes/base/ui.all.css" rel="stylesheet" />
+	<script type="text/javascript" src="jquery-1.4.1.js"></script>
+	<script type="text/javascript" src="ui/jquery.ui.core.js"></script>
+	<script type="text/javascript" src="ui/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="ui/jquery.ui.accordion.js"></script>
+
+	<script type="text/javascript" src="ui/jquery.ui.tabs.js"></script>
+	
+<script type="text/javascript">
+	$(function() {
+ 		$("#accordionc").accordion({ 
+								  icons: { 'header': 'ui-icon-plus', 'headerSelected': 'ui-icon-minus' },
+								  header: "h3" ,
+								   
+									collapsible:false,
+  							activate:true,
+  						alwaysOpen:true,
+  							autoHeight:false
+								  });
+	});
+
+	</script>
+    	<div id="tabs-3">
+           <div id="accordionc">
+                <h3><a href="#">Anycase</a></h3>
+                <div>
+                		 <img src="product_images/inserts/anycase/1.jpg" width="250" height="150"/>
+	      <img src="product_images/inserts/anycase/2.jpg" width="250" height="150"/></div>
+           
+                <h3><a href="#">Etsumi</a></h3>
+                <div>
+					<img src="product_images/inserts/p_and_p/1.jpg" width="250" height="150"/><img src="slideshow/cricci11.jpg" width="250" height="150"/>
+	          		<img src="slideshow/cricci12.jpg" width="250" height="150"/>
+ </div>
+           
+                <h3><a href="#">P&P</a></h3>
+                <div>
+                 <img src="slideshow/cricci8.jpg" width="250" height="150"/><img src="slideshow/cricci11.jpg" width="250" height="150"/>
+    	     		 <img src="slideshow/cricci12.jpg" width="250" height="150"/>
+                  
+        	    </div>
+           
+            </div>
+          
+    </div>

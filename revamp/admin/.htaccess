@@ -1,0 +1,5 @@
+#Deny from all
+AuthType Basic
+AuthName admin
+AuthUserFile /home/vhost/camportco.com/admin/.htpasswd
+require valid-user

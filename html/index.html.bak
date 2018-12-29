@@ -1,0 +1,127 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Small Corporation</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="Small Corporation" />
+	<meta name="keywords" content="small, corporation" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+	<div id="content">
+		<div id="top">
+			<p><a href="">Language</a>
+				<a href="">Product</a>
+				<a href="">ContactUs</a>
+        <a href="">Help</a></p>
+			<form id="search_engine" method="post" action="." accept-charset="UTF-8">
+				<p><input class="searchfield" name="search_query" type="text" id="keywords" value="Search Keywords" onfocus="document.forms['search_engine'].keywords.value='';" onblur="if (document.forms['search_engine'].keywords.value == '') document.forms['search_engine'].keywords.value='Search Keywords';" />
+				<input class="searchbutton" name="submit" type="submit" value="Search" /></p>
+			</form>
+		</div>
+	
+		<div id="logo">
+			<h1><img src="images/logo.png" alt="" width="473" height="146" /></h1>
+		</div>
+
+		<ul id="menu">
+	    <li><a href="">hOME</a></li>
+			<li>	<a href="">pRODUCT</a></li>
+			<li>	<a href="template/">cONTACT US</a></li>
+			<li>	<a href="">cOMPANY INFO</a></li>
+		</ul>
+		
+		<div id="main">
+			<h3><a href="#">News 21 -Jan 2010 10:00am</a></h3>
+			<h2><a href="#">AXA-SH1 Released</a></h2>
+			<p><img src="images/car.jpg" alt="Car" width="267" height="183" />Xa-sh is a xxffjsldkfjsldkfj<br />
+			</p>
+			dfsdfsdfsdf
+			<p>sdfklsdjfsdfsdf.</p>
+			<p>dsfdsfdfsd<br />
+			  dsfsdfsdfsdf
+			</p>
+			<p>dsfd</p>	
+		</div>
+		
+		<div id="ad">
+			<p>ADvertise</p>
+    </div>
+		
+		<div id="shortnews">
+			<div class="news">
+				<h3><a href="#">S324234234234</a></h3>
+				<p>3244444444444444444444444.</p>
+			</div>
+			<h3><a href="#">32434222ta</a></h3>
+			<p>34222222222222222222222222222222<br />
+			  2344444444444444444444
+			</p>
+		</div>
+
+		<div id="line"></div>
+		
+		<div id="left">
+			<h3>News </h3>
+				<ul>
+					<li><a href="#">dsfdsfsdffffffffffffffffffffffffffffffffffffffff</a></li>
+					<li><a href="#">dsfdsfsdffffffffffffffffffffffffffffffffffffffff</a></li>
+					<li><a href="#">dsfdsfsdffffffffffffffffffffffffffffffffffffffffer</a></li>
+					<li><a href="#">dsfdsfsdffffffffffffffffffffffffffffffffffffffff</a></li>
+					<li><a href="#">dsfdsfsdffffffffffffffffffffffffffffffffffffffffr</a></li>
+					<li><a href="#">dsfdsfsdffffffffffffffffffffffffffffffffffffffffr</a></li>
+					<li><a href="#">dsfdsfsdffffffffffffffffffffffffffffffffffffffff</a></li>
+					<li><a href="#">Ldsfdsfsdffffffffffffffffffffffffffffffffffffffff</a></li>
+					<li><a href="#">342344444444444</a></li>
+					<li><a href="#">342344444444444</a></li>
+					<li><a href="#">342344444444444</a></li>
+				</ul>
+		</div>
+					
+		<div id="right">	
+			<div id="rl">
+				<ul>
+					<li>
+					  <table width="269" border="0">
+			          <tr>
+					        <td width="195" rowspan="2"><a href="#"><img src="images/ARST15A-RF-BK-01.jpg" alt="" width="200" height="150" /></a></td>
+					        <td width="64">dfdsdfsdfsdf</td>
+				          </tr>
+					      <tr>
+					        <td>dfsdfsdf</td>
+				          </tr>
+				      </table>
+					</li>
+				</ul>
+    </div>
+			
+			<div id="rr">
+				<ul>
+					<li>
+					  <table width="269" border="0">
+					    <tr>
+					      <td rowspan="2"><a href="#"><img src="images/ARST15A-RF-RD-01.jpg" alt="" width="200" height="150" /></a></td>
+					      <td>dfdsdfsdfsdf</td>
+				        </tr>
+					    <tr>
+					      <td>dfsdfsdf</td>
+				        </tr>
+				      </table>
+					</li>
+				</ul>
+		  </div>
+		
+			<p class="border">342344444444444 sdffffffffffffffffff
+			sdffffffffffffffffff
+			dsffffffffffffffffffffffffff
+			</p>
+		</div>
+			
+		<div id="footer">
+		  <div id="fl">
+		    <p>Camport Camera Accessories 2010 All Right Copy</p>
+		    </div>
+		</div>	
+	</div>
+</body>
+</html>
